@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/easyCrypto/static/css/main.ac2e8495.css",
-    "main.js": "/easyCrypto/static/js/main.0b877e16.js",
-    "static/media/markus-spiske-matrix-unsplash.jpg": "/easyCrypto/static/media/markus-spiske-matrix-unsplash.e3979111d06032b0526e.jpg",
-    "index.html": "/easyCrypto/index.html",
-    "main.ac2e8495.css.map": "/easyCrypto/static/css/main.ac2e8495.css.map",
-    "main.0b877e16.js.map": "/easyCrypto/static/js/main.0b877e16.js.map"
+    "main.css": "/RSA_REACT_JS/static/css/main.5a6f8a3c.css",
+    "main.js": "/RSA_REACT_JS/static/js/main.0b877e16.js",
+    "static/media/markus-spiske-matrix-unsplash.jpg": "/RSA_REACT_JS/static/media/markus-spiske-matrix-unsplash.e3979111d06032b0526e.jpg",
+    "index.html": "/RSA_REACT_JS/index.html",
+    "main.5a6f8a3c.css.map": "/RSA_REACT_JS/static/css/main.5a6f8a3c.css.map",
+    "main.0b877e16.js.map": "/RSA_REACT_JS/static/js/main.0b877e16.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac2e8495.css",
+    "static/css/main.5a6f8a3c.css",
     "static/js/main.0b877e16.js"
   ]
 }
